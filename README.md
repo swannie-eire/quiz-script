@@ -1,8 +1,8 @@
 <h1>Python Quiz Script</h1>
 
 <h3>Prerequisites</h3>
-Python
-Quiz files
+* Python
+* Quiz files
 
 <h3>Usage</h3>
 Put quiz files in the same folder as this quiz.
